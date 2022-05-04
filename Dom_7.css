@@ -1,0 +1,11 @@
+.dom {
+    text-align: center;
+}
+
+.box {
+    
+    margin: 50px;
+    text-align: center;
+    border-style: dashed;
+    width: 500px;
+}

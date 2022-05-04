@@ -1,0 +1,1 @@
+let list = ["Erik Bergerud", "undervisningsleder"] ;
